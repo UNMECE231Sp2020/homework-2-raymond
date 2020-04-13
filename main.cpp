@@ -1,4 +1,6 @@
 #include <iostream>
+#include "header.h"
+#include <math.h>
 
 int main() {
 	Complex c1;
